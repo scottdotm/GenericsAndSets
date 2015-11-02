@@ -29,7 +29,7 @@ public class Challenge4 {
         emps.add(e5);
 
         for (Employee e : emps) {
-            System.out.println(e);
+            System.out.println(e + "\n");
             
         }
         
